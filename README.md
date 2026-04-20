@@ -9,4 +9,4 @@ The app updates itself automatically — you only need this page for the first i
 ---
 
 🌐 Website: https://tikcontrol.app
-📜 Source code: private
+
